@@ -1,0 +1,6 @@
+[book]
+authors = ["andrew-llcoder"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hallette Doc"
